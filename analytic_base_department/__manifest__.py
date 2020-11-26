@@ -9,6 +9,6 @@
     "category": "Generic Modules/Projects & Services",
     "website": "https://github.com/OCA/account-analytic",
     "depends": ["account", "hr"],
-    "data": ["views/analytic.xml"],
+    "data": ["views/analytic.xml", "views/hr_department_views.xml"],
     "installable": True,
 }
